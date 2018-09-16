@@ -1,0 +1,11 @@
+.input_style{
+  width:50%;
+  height:40px;
+}
+.button_style{
+  position:absolute;
+  top:50px;
+  left:50%;
+  height:40px;
+  width:50%;
+}
